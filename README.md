@@ -11,3 +11,5 @@
 **Step 4:** You took all the pencils in one turn. Your friend decided that it was unfair and somehow took a negative number of pencils! Who is the winner? Let's add the winning condition!
 
 **Step 5:** You've played several games and found out that there's only one winning strategy. Your friend suggested implementing a bot to add a certain degree of randomness to the game.
+
+![image](https://user-images.githubusercontent.com/33701673/179574794-d3e1cacd-6489-431e-92c2-f83f1f22a649.png)
