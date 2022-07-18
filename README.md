@@ -1,5 +1,7 @@
 # last-pencil-game-nim
 
+[JetBrains Academy project — medium]
+
 **Description:** Playing with friends is pure fun, but getting ahead of them is even more enjoyable. Invite a friend to play the Last Pencil, a game where you decide who wins. In this project, your opponent is a computer that is an expert in the game. But it's up to you to choose who wins.
 
 **Step 1:** You and your friend decided to play a simple pen-and-paper game. There's one catch — you have only pencils but no paper; the last piece of paper is gone for your beautiful drawings. As a joke, your friend pulls all the pencils out of the case onto the table and says: "Your turn!"
